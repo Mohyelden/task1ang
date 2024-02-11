@@ -1,0 +1,20 @@
+.ppp{
+    background-color: #1ABC9C;
+    color: white;
+    padding-block: 100px;
+    padding-top: 200px;
+}
+.decorative-line {
+    display: inline-block;
+    border-bottom: 3px solid white; /* Adjust the color to match your screenshot */
+    width: 100px; /* Adjust width as needed */
+    margin: 5px 10px; /* Adjust spacing as needed */
+
+  }
+
+  .star-icon {
+    color: white; /* Adjust the color to match your screenshot */
+    font-size: 20px;
+  }
+
+

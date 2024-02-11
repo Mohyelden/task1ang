@@ -1,0 +1,35 @@
+.decorative-line {
+    display: inline-block;
+    border-bottom: 3px solid black; /* Adjust the color to match your screenshot */
+    width: 100px; /* Adjust width as needed */
+    margin: 5px 10px; /* Adjust spacing as needed */
+
+  }
+
+  .star-icon {
+    color:black; /* Adjust the color to match your screenshot */
+    font-size: 20px;
+  }
+  .coinputs{
+    width: 65%;
+    margin: auto;
+  }
+  input{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    margin-block: 10px;
+    border-radius: 5px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.151);
+  }
+  button{
+    border: none;
+    color: white;
+    background-color: #1ABC9C;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-top: 20px;
+  }
+  .contacti{
+    margin-top: 100px;
+  }

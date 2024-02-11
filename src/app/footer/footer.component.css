@@ -1,0 +1,21 @@
+.ppp{
+    
+    background-color: #263545;
+    
+}
+.topfoot{
+    padding-block: 80px;
+}
+
+i{
+    padding: 10px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+.foot{
+    background-color: #162028;
+    color: white;
+    text-align: center;
+    width: 100%;
+    padding-block: 20px;
+}
